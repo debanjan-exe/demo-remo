@@ -54,10 +54,6 @@ nav a {
     color: #fff;
 }
 
-nav a:hover {
-    color: rgb(238, 248, 90);
-    transition: all 0.2s ease-in-out;
-}
 
 main {
     display: flex;
